@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aitor Santana</h1>
 <h3 align="center">A passionate React Frontend developer from Canary Islands</h3>
 
-- 🔭 I’m currently working on [Windbnb](https://github.com/Sstark97/Windbnb)
+- 🔭 I’m currently working on [Random-Quote-Generator](https://github.com/Sstark97/random-quote-generator)
 
 - 🌱 I’m currently learning **Redux, React-Hooks and Responsive Design**
 

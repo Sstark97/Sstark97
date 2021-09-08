@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aitor Santana</h1>
 <h3 align="center">A passionate React Frontend developer from Canary Islands</h3>
 
-- 🔭 I’m currently working on [GitHub-Jobs](https://github.com/Sstark97/github-jobs)
+- 🔭 I’m currently working on [Fulcrum](https://github.com/Sstark97/Fulcrum)
 
 - 🌱 I’m currently learning **Redux, React-Hooks and Responsive Design**
 

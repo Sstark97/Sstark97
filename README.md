@@ -7,7 +7,7 @@ Full Stack Developer
 Hello, I am a Full-Stack Web Developer, with experience in the MERN stack although I also have knowledge of Angular, which likes to constantly update and develop my greatest passion, programming webapps or any type of software.
 
 * 🌍  I'm based in Canary Islands
-* 🖥️  See my portfolio at [My website](http://aitorsc.netlify.app)
+* 🖥️  See my portfolio at [Muy website](http://aitorsc.netlify.app)
 * ✉️  You can contact me at [aitorscinfo@gmail.com](mailto:aitorscinfo@gmail.com)
 * 🚀  I'm currently working on [My personal Portfolio](http://aitorsc.netlify.app)
 * 🧠  I'm learning Next.js
@@ -42,7 +42,6 @@ Hello, I am a Full-Stack Web Developer, with experience in the MERN stack althou
 ### Socials
 
 <p align="left"> <a href="https://www.dev.to/Sstark97" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/Sstark97" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aitorscinfo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/aitorsci" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -50,8 +49,6 @@ Hello, I am a Full-Stack Web Developer, with experience in the MERN stack althou
 <a href="http://www.github.com/Sstark97"><img src="https://github-readme-stats.vercel.app/api?username=Sstark97&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sstark97's GitHub stats" /></a>
 
 <a href="http://www.github.com/Sstark97"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sstark97&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/Sstark97"><img src="https://activity-graph.herokuapp.com/graph?username=Sstark97&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Sstark97" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sstark97&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 

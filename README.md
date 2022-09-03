@@ -7,9 +7,9 @@ Full Stack Developer
 Hello, I am a Full-Stack Web Developer, with experience in the MERN stack although I also have knowledge of Angular, which likes to constantly update and develop my greatest passion, programming webapps or any type of software.
 
 * 🌍  I'm based in Canary Islands
-* 🖥️  See my portfolio at [Muy website](http://aitorsc.netlify.app)
+* 🖥️  See my portfolio at [Muy website](http://aitorsc.live)
 * ✉️  You can contact me at [aitorscinfo@gmail.com](mailto:aitorscinfo@gmail.com)
-* 🚀  I'm currently working on [My personal Portfolio](http://aitorsc.netlify.app)
+* 🚀  I'm currently working on [My personal Portfolio](http://aitorsc.live)
 * 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on Freelance Projects
 

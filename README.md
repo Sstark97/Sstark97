@@ -9,7 +9,7 @@ Hello, I am a Full-Stack Web Developer, with experience in the MERN stack althou
 * 🌍  I'm based in Canary Islands
 * 🖥️  See my portfolio at [My website](http://ascinfo.live)
 * ✉️  You can contact me at [aitorscinfo@gmail.com](mailto:aitorscinfo@gmail.com)
-* 🚀  I'm currently working on [My personal Portfolio](http://ascinfo.live)
+* 🚀  I'm currently working on [Fakephy](http://fakephy.netlify.app)
 * 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on Freelance Projects
 

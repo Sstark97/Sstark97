@@ -27,8 +27,8 @@ Hello, I am a Full-Stack Web Developer, with experience in the MERN stack althou
 <a href="https://www.astro.build/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/astro.svg" alt="Astro" width="36" height="36" /</a>  
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.jestjs.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" width="36" height="36/></a> 
-<a href="https://vitest.dev/" target="_blank" rel="noreferrer"><img src="https://vitest.dev/logo-shadow.svg" width="36" height="36" alt="Vitest" /></a>
+<a href="https://www.jestjs.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" width="36" height="36"/></a> 
+<a href="https://vitest.dev/" target="_blank"><img src="https://vitest.dev/logo-shadow.svg" width="36" height="36" alt="Vitest" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>

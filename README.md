@@ -1,16 +1,18 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aitor Santana
 =====================================================================================================================================
 
-Full Stack Developer
+Software Developer
 --------------------
 
-Hello, I am a Full-Stack Web Developer, with experience in the MERN stack although I also have knowledge of Angular, which likes to constantly update and develop my greatest passion, programming webapps or any type of software.
+I consider myself fortunate to work in my passion: 💡software development💡.
+
+I strive to be in constant learning mode, focusing my attention on writing ✍️clean and easily maintainable code. I've explored methodologies like Test-Driven Development (🧪TDD🧪) and design patterns. 
 
 * 🌍  I'm based in Canary Islands
-* 🖥️  See my portfolio at [My website](http://ascinfo.live)
+* 🖥️  See my portfolio at [My website](http://ascinfo.dev)
 * ✉️  You can contact me at [aitorscinfo@gmail.com](mailto:aitorscinfo@gmail.com)
-* 🚀  I'm currently working on [Fakephy](http://fakephy.netlify.app)
-* 🧠  I'm learning Next.js
+* 🚀  I'm currently working on [Lean Mind](https://leanmind.es/es/)
+* 🧠  I'm learning Test Driven Development (TDD) and clean and maintainable code
 * 🤝  I'm open to collaborating on Freelance Projects
 
 ### Skills

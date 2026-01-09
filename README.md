@@ -62,13 +62,9 @@ I believe in choosing the right tool for the job. Here are the technologies I en
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Sstark97">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sstark97&show_icons=true&hide=&count_private=true&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6&bg_color=0d1117&hide_border=true" alt="Aitor's Stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sstark97&show_icons=true&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6&bg_color=0d1117&hide_border=true" alt="Aitor's Stats" />
   <br/>
-  <a href="https://github.com/Sstark97">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sstark97&layout=compact&langs_count=8&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6&bg_color=0d1117&hide_border=true&custom_title=Top%20Languages" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sstark97&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" alt="Aitor's Streak" />
 </div>
 
 ---

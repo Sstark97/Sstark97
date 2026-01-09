@@ -1,65 +1,81 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aitor Santana
-=====================================================================================================================================
+<div align="center">
+  <h1>Hi there, I'm Aitor Santana 👋</h1>
+  <h3>Software Crafter | Technical Writer | Rust & TypeScript Enthusiast</h3>
+  
+  <p>
+    Building reliable, scalable, and maintainable software through 
+    <b>Test-Driven Development (TDD)</b> and <b>Clean Architecture</b>.
+  </p>
 
-Software Developer
---------------------
+  <p>
+    <a href="https://ascinfo.dev">
+      <img src="https://img.shields.io/badge/Website-ascinfo.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+    </a>
+    <a href="https://www.linkedin.com/in/aitorscinfo">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://twitter.com/aitorsci">
+      <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+  </p>
+</div>
 
-I consider myself fortunate to work in my passion: 💡software development💡.
+---
 
-I strive to be in constant learning mode, focusing my attention on writing ✍️clean and easily maintainable code. I've explored methodologies like Test-Driven Development (🧪TDD🧪) and design patterns. 
+### 👨‍💻 About Me
 
-* 🌍  I'm based in Canary Islands
-* 🖥️  See my portfolio at [My website](http://ascinfo.dev)
-* ✉️  You can contact me at [aitorscinfo@gmail.com](mailto:aitorscinfo@gmail.com)
-* 🚀  I'm currently working on [Lean Mind](https://leanmind.es/es/)
-* 🧠  I'm learning Test Driven Development (TDD) and clean and maintainable code
-* 🤝  I'm open to collaborating on Freelance Projects
+I am a **Senior Software Developer** at [Lean Mind](https://leanmind.es/es/), passionate about the *Craftsmanship* culture. My focus is not just writing code that works, but writing code that speaks. I specialize in reducing technical debt and improving system reliability using **TDD** and **Domain-Driven Design (DDD)**.
 
-### Skills
+* ✍️ **Technical Writer:** Regular contributor at [Codemotion Magazine](https://www.codemotion.com/magazine/es/author/sstark97/), writing about Rust, Testing, and Good Practices.
+* 🗣️ **Speaker:** I love sharing knowledge. Check out my talks on my [website](https://ascinfo.dev/charlas).
+* 🔭 **Currently Exploring:** Advanced Rust patterns, Distributed Systems, and Hexagonal Architecture deep dives.
+* 🌍 **Based in:** Canary Islands, Spain.
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" width="36" height="36"/></a>  
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://www.astro.build/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/astro.svg" alt="Astro" width="36" height="36" /</a>  
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.jestjs.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" width="36" height="36"/></a> 
-<a href="https://vitest.dev/" target="_blank"><img src="https://vitest.dev/logo-shadow.svg" width="36" height="36" alt="Vitest" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" width="36" height="36" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring"/></a>  
-  <a href="https://graphql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" width="36" height="36" /</a>  
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
-</p>
+---
 
-### Socials
+### 🛠️ Tech Stack & Practices
 
-<p align="left"> <a href="https://www.dev.to/Sstark97" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/Sstark97" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aitorscinfo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/aitorsci" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+I believe in choosing the right tool for the job. Here are the technologies I enjoy working with:
 
-### Badges
+<div align="left">
 
-<b>My GitHub Stats</b>
+**Core Languages:** <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
 
-<a href="http://www.github.com/Sstark97"><img src="https://github-readme-stats.vercel.app/api?username=Sstark97&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sstark97's GitHub stats" /></a>
 
-<a href="https://github.com/Sstark97" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sstark97&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+**Web & Frameworks:** <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
 
-### Support Me
+**Testing & Craftsmanship:** <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+<img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
+<img src="https://img.shields.io/badge/TDD-Green?style=flat-square" />
+<img src="https://img.shields.io/badge/Clean_Architecture-Blue?style=flat-square" />
 
-<a href="https://www.buymeacoffee.com/aitorscinfo"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/Sstark97">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sstark97&show_icons=true&hide=&count_private=true&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6&bg_color=0d1117&hide_border=true" alt="Aitor's Stats" />
+  </a>
+  <br/>
+  <a href="https://github.com/Sstark97">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sstark97&layout=compact&langs_count=8&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6&bg_color=0d1117&hide_border=true&custom_title=Top%20Languages" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <p>Looking for a Senior Craftsman or a Speaker for your next event?</p>
+  <a href="mailto:aitorscinfo@gmail.com">
+    <img src="https://img.shields.io/badge/Contact_Me-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>

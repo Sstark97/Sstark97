@@ -7,7 +7,7 @@
     <b>Test-Driven Development (TDD)</b> and <b>Clean Architecture</b>.
   </p>
 
-  <p>
+<p>
     <a href="https://ascinfo.dev">
       <img src="https://img.shields.io/badge/Website-ascinfo.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
     </a>
@@ -16,6 +16,9 @@
     </a>
     <a href="https://twitter.com/aitorsci">
       <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="https://bsky.app/profile/ascinfo.dev">
+      <img src="https://img.shields.io/badge/BlueSky-Follow-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="BlueSky" />
     </a>
   </p>
 </div>

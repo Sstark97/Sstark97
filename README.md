@@ -61,11 +61,9 @@ I believe in choosing the right tool for the job. Here are the technologies I en
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sstark97&show_icons=true&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6&bg_color=0d1117&hide_border=true" alt="Aitor's Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sstark97&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" alt="Aitor's Streak" />
-</div>
+<a href="http://www.github.com/Sstark97"><img src="https://github-readme-stats.vercel.app/api?username=Sstark97&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sstark97's GitHub stats" /></a>
+
+<a href="https://github.com/Sstark97" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sstark97&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ---
 

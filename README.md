@@ -59,11 +59,9 @@ I believe in choosing the right tool for the job. Here are the technologies I en
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
-<a href="http://www.github.com/Sstark97"><img src="https://github-readme-stats.vercel.app/api?username=Sstark97&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sstark97's GitHub stats" /></a>
-
-<a href="https://github.com/Sstark97" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sstark97&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sstark97&theme=monokai)](https://git.io/streak-stats)
 
 ---
 

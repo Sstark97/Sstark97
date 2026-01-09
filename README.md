@@ -59,12 +59,6 @@ I believe in choosing the right tool for the job. Here are the technologies I en
 
 ---
 
-### 📊 GitHub Activity
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sstark97&theme=monokai)](https://git.io/streak-stats)
-
----
-
 <div align="center">
   <p>Looking for a Senior Craftsman or a Speaker for your next event?</p>
   <a href="mailto:aitorscinfo@gmail.com">
